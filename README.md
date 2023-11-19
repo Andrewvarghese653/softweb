@@ -1077,7 +1077,9 @@ section
 
 ## OUTPUT:
 <img width="834" alt="Screenshot 2023-11-20 at 12 18 08 AM" src="https://github.com/Andrewvarghese653/softweb/assets/145822115/cb8de8c9-30e1-40ea-92c2-1b8ee819c9c7">
-<img width="827" alt="Screenshot 2023-11-20 at 12 19 38 AM" src="https://github.com/Andrewvarghese653/softweb/assets/145822115/a3fde33a-6f3a-4bfb-a2ce-0a748ee03d0c">
+<img width="780" alt="Screenshot 2023-11-20 at 1 24 04 AM" src="https://github.com/Andrewvarghese653/softweb/assets/145822115/1bbc77a4-1348-4354-83e8-a957bd39bcdb">
+<img width="783" alt="Screenshot 2023-11-20 at 1 24 28 AM" src="https://github.com/Andrewvarghese653/softweb/assets/145822115/41edb9a9-391f-4e45-a950-05e558b34481">
+
 
 
 
